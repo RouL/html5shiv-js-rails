@@ -8,7 +8,7 @@ Usage
 
 Add the following to your Gemfile:
 
-    gem 'html5shiv-js-rails
+    gem 'html5shiv-js-rails'
 
 then run:
 
@@ -23,4 +23,4 @@ Now you only need to add the following to your layout:
 License
 -------
 
-Same as html5shiv itself, this gem is dual licensed undet the MIT and the GPLv2 license.
+Same as html5shiv itself, this gem is dual licensed under the MIT and the GPLv2 license.
